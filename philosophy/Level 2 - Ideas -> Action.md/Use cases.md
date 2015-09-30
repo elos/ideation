@@ -15,3 +15,4 @@ we should model our entire process on the survival of the fittest/lean manufactu
      - **USE CASES:**
 
 
+-- Freeze
