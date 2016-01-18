@@ -6,5 +6,3 @@ Elos is math and logic applied through a filter of philosophy on what you think 
  - [Mission](mission.md)
  - [Motto](motto.md)
  - [Genesis](genesis.md)
-
-
